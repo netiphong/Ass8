@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 05, 2018 at 05:43 PM
+-- Generation Time: Nov 26, 2018 at 09:24 AM
 -- Server version: 10.1.34-MariaDB
--- PHP Version: 7.2.7
+-- PHP Version: 7.2.8
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -40,8 +40,8 @@ CREATE TABLE `content` (
 --
 
 INSERT INTO `content` (`std_id`, `std_name`, `std_tel`, `std_email`) VALUES
-('593020525-7', 'Supanut Liemphitak', '0875464393', 'Supanut.l@kkumail.com '),
-('593020836-0', 'Sasima Jandeewiang', '0968600638', 'kinoon970813@gmail.com');
+('593020932-4', 'netiphong kanyala', '000000', 'gne.kanyala@kkumail.com'),
+('5930209324', 'gne', '123456789', 'ggg#@dggs.com');
 
 --
 -- Indexes for dumped tables

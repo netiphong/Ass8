@@ -1,6 +1,6 @@
 <?php
     header("Content-type:text/javascript;charset=utf-8");
-    define('HOST','127.0.0.1');
+    define('HOST','localhost');
     define('USER','root');
     define('PASS','');
     define('DB','lab_connect_mysql');
